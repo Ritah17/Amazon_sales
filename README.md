@@ -51,7 +51,7 @@ Identify profitable vs low-margin products
 Optimize marketing and stock strategies
 Make region-based business decisions
 
-**[Download Power BI Dashboard](Amazonsales.pbix)**
+**[Download Power BI Dashboard](Amazon_sales.pbix)**
 
 
 
