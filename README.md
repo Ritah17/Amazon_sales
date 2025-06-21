@@ -52,6 +52,7 @@ Optimize marketing and stock strategies
 Make region-based business decisions
 
 **[Download Power BI Dashboard](Amazon_sales.pbix)**
+[View SQL Queries]()
 
 
 
